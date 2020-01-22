@@ -1,0 +1,42 @@
+---
+title: "hw1"
+output: html_document
+
+author: "Anthony Song, github: aasong113"
+---
+
+2. 
+
+Data science can be used to analyze *NHL* hockey statistics. These stats can be used by trainers, staff, and players to improve their game providing a better on-ice product for the audience. This can also be used to promote the game we using statistics of **viewers**. Stats can be viewed at http://www.nhl.com/stats/. 
+
+![](https://nhl.bamcontent.com/images/photos/291396408/1024x576/cut.jpeg)
+
+```{r}
+`version`
+```
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
