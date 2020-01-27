@@ -1,0 +1,15 @@
+---
+title: "partner"
+author: "Jaydon Cobb"
+github: "JaydonLCobb"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Some new stuff 4 ur repo dawg:
+1) Your most recent commit was the first HW assignment. (ID:da09a6d8f009fc16040fd65a62beebb4380c157c)
+2) Yes I was able to knit his hw1.Rmd
+3) Git, make a cheat sheet!
